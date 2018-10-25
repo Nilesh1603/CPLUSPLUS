@@ -1,5 +1,7 @@
 CXX=g++
 CXXFLAGS=-std=c++14 -O2 -Wall
-all: Huffman_Coding_DNA
+
+all: Spell_Check
+
 clean:
-	rm -rf Huffman_Coding_DNA
+	rm -rf Spell_Check
